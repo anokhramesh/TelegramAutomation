@@ -23,7 +23,7 @@
 char ssid[] = "dewa406";         // your network SSID (name)
 char password[] = "Ramesh16384"; // your network password
 
-#define TELEGRAM_BOT_TOKEN "1370556727:AAHZQ5Wo63HR7g_AUP_ITLqsjR-rcmpPdBY"  // Your Telegram Bot Token 
+#define TELEGRAM_BOT_TOKEN "Enter the Token Here"  // Your Telegram Bot Token 
 
 
 //------- ---------------------- ------
